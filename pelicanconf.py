@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = 'Josenilton Santos'
+AUTHOR = 'n3wt0nSAN'
 SITENAME = '(Jose)n3wt0n_s4n(tos)'
 SITEURL = ''
 
@@ -10,7 +10,7 @@ PATH = 'content'
 
 TIMEZONE = 'America/Sao_Paulo'
 
-DEFAULT_LANG = 'pt'
+DEFAULT_LANG = 'en'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
